@@ -1,0 +1,17 @@
+NEXT STEPS
+
+1. Upload index.html and style.css to the root of your GitHub repository:
+   https://github.com/rehema-HM/rehema-HM.github.io
+
+2. Enable GitHub Pages:
+   Settings > Pages > Deploy from a branch > main > /(root)
+
+3. Open:
+   https://rehema-HM.github.io
+
+4. Later add:
+   - your CV as cv/Rehema_Mwawado_CV.pdf
+   - project screenshots in assets/
+   - the dedicated LaTeX sample in samples/
+
+5. When you send me your CV and the specific visuals you want to use, the placeholder project visuals can be replaced with real screenshots.
